@@ -8,7 +8,7 @@ export default function Navbar() {
 
   return (
     <nav className={styles.navbar}>
-      <a href="/" className={styles.title}>
+      <a href="/itzjmbruhhh" className={styles.title}>
         JM Reyes 🧑‍💻
       </a>
       <div className={styles.menu}>
