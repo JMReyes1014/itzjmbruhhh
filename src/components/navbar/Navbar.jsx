@@ -14,7 +14,7 @@ export default function Navbar() {
       <div className={styles.menu}>
         <img
           src={
-            menuOpen ? "assets/nav/closeIcon.png" : "assets/nav/menuIcon.png"
+            menuOpen ? "src/assets/nav/closeIcon.png" : "src/assets/nav/menuIcon.png"
           }
           alt="menu-button"
           className={styles.menuBtn}
