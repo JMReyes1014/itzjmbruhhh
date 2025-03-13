@@ -12,7 +12,6 @@
     "predeploy": "npm run build",
     "postbuild": "mkdir -p dist/src/assets && cp -r src/assets/* dist/src/assets/",
     "deploy": "gh-pages -d dist"
-    
   },
   "dependencies": {
     "@fontsource/outfit": "^5.2.5",
