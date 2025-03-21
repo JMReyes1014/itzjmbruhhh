@@ -31,6 +31,9 @@ export default function Navbar() {
             <a href="#education">Education & Skills</a>
           </li>
           <li>
+            <a href="#certification">Certification & Activities</a>
+          </li>
+          <li>
             <a href="#projects">Projects</a>
           </li>
           <li>
